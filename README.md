@@ -4,7 +4,7 @@
 This repository contains a sanitized enterprise network topology designed to demonstrate infrastructure layout, segmentation, and system organization without exposing sensitive information.
 
 ## Diagram
-![Topology](diagrams/enterprise-topology-sanitized.png)
+[View Network Topology (PDF)](diagrams/enterprise-network-topology-sanitized.pdf)
 
 ## Key Concepts
 - Network segmentation across compute clusters  
